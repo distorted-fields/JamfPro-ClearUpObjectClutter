@@ -1,4 +1,4 @@
-# ObjectClutter
+# Object Clutter - Could lead to performance issues.
 
 Interested in clearing out some cruft from your Jamf Pro server? Want to find some things that could be causing performance issues? 
 
